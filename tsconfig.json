@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/splash/index.jsx", "app/job/FeaturedCompanies.jsx", "app/job/JobCard.jsx", "app/job/JobCategories.jsx", "app/job/JobsList.jsx", "app/job/JobsHeader.jsx", "app/main-menu/index.jsx", "hooks/useFrameworkReady.js", "hooks/useScrollNavbar.js", "app/food/index.jsx", "app/auth/index.jsx", "app/auth/_layout.jsx", "app/auth/login.jsx", "app/auth/signup.jsx", "app/job-apply/[id].jsx"  ]
 }
